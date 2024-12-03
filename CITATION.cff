@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Öffentliche Dokumente der 2024 Themenwoche der VW-Stiftung
+  zum Thema „Code for Science oder: Bessere Forschung durch
+  bessere Forschungssoftwarekompetenzen“
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Kempf
+    given-names: Dominic
+    orcid: 'https://orcid.org/0000-0002-6140-2332'
+    affiliation: Ruprecht Karls Universität Heidelberg
+  - given-names: Yves Vincent
+    family-names: Grossmann
+    affiliation: Goethe-Universität Frankfurt
+    orcid: 'https://orcid.org/0000-0002-2880-8947'
+  - given-names: Frank
+    family-names: Löffler
+    affiliation: Friedrich-Schiller-Universität Jena
+    orcid: 'https://orcid.org/0000-0001-6643-6323'
+  - given-names: Jan
+    family-names: Linxweiler
+    affiliation: Technische Universität Braunschweig
+    orcid: 'https://orcid.org/0000-0002-2755-5087'
+repository-code: 'https://github.com/DE-RSE/2024_themenwoche_RSE/'
+abstract: >-
+  The importance of research software in the scientific
+  knowledge process is increasing, yet the required
+  corresponding competencies are often neglected.
+  Institutions often lack a clear concept regarding the
+  development and use of research software, as well as the
+  development of the corresponding competencies. The
+  symposium will bring together representatives from the
+  Research Software Engineering Community, libraries,
+  research data management facilities, computing centers,
+  Open Science Offices, and other relevant stakeholders to
+  develop recommendations for institutions. Topics covered
+  may include establishing research software in
+  institutions, awareness building, integration of research
+  software into curricula, best practice examples, research
+  software policies, as well as national and international
+  collaborations. The workshop aims to identify solutions on
+  how stakeholders and institutions can be empowered to use
+  and develop research software more effectively. The
+  developed recommendations will be published in open access
+  and fed back into the relevant communities.
+keywords:
+  - Research Software
+  - Competence
+  - Forschungssoftware
+  - Kompetenz
